@@ -140,3 +140,6 @@ else:
     st.info("Por favor, introduce el nombre del producto, precio y link arriba para generar los textos personalizados.")
 
 st.divider()
+
+# Botón para ir al creador de diseño
+st.link_button("creador de diceño", "https://imagenmode.streamlit.app/")
